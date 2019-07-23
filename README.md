@@ -1,4 +1,2 @@
 # 4x4animals
-group project
-
-EDA staudents group project
+Week 2 Enspiral Dev Academy group project
